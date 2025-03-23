@@ -1,28 +1,39 @@
-Subject: Application for Full-Stack Developer Position at GitHub
+# 💻 Sonjoy Bhadra  
+🚀 **Full-Stack Developer | Laravel | React.js | Node.js | Django**  
 
-Dear Hiring Manager,
+![GitHub Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub)  
 
-I am excited to apply for the Full-Stack Developer position at GitHub. With over 14 years of experience in web development, I have designed and developed scalable applications using Laravel, React.js, Node.js, and Django, along with extensive expertise in API integrations, system architecture, and database optimization.
+## 👋 About Me  
+I am a **Full-Stack Developer** with over **14 years of experience** in building scalable web applications and APIs. I specialize in **Laravel, React.js, Node.js, Django**, and have expertise in database architecture, system optimization, and cloud deployment.  
 
-Throughout my career, I have led multiple complex projects, including:
+🔹 **Core Skills:**  
+- Backend: **Laravel, Django, Node.js, PHP, Python**  
+- Frontend: **React.js, Next.js, Tailwind CSS, JavaScript**  
+- Database: **MySQL, PostgreSQL, MongoDB**  
+- DevOps: **CI/CD, Docker, AWS, DigitalOcean**  
+- API Development & Payment Integration  
 
-    CreateAPI – A unified API service integrating MyFatoorah & Upayment.
+🔹 **Notable Projects:**  
+✅ [**CreateAPI**](https://createapi.link/) – Unified API service integrating MyFatoorah & Upayment  
+✅ [**TechTootalk**](https://techtootalk.com/) – A tech review and blog platform  
+✅ [**UbookToday**](https://www.ubooktoday.com/) – Salon slot booking with gamification  
+✅ **Various Photography & Booking Platforms**  
 
-    TechTootalk – A technology review and blog portal.
+---
 
-    UbookToday – A salon slot booking platform with gamification.
+## 📈 GitHub Stats  
 
-    Various photography & booking platforms in Kuwait, optimizing performance and payment integrations.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonjoybhadra&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjoybhadra&layout=compact&theme=radical)  
 
-My core strengths include:
-✔️ Building RESTful APIs & microservices using Laravel, Node.js, Django
-✔️ Frontend development with React.js, Next.js, and Tailwind CSS
-✔️ Scalable backend solutions with MySQL, PostgreSQL, and MongoDB
-✔️ DevOps practices, CI/CD, and cloud deployments
+---
 
-I am passionate about open-source contributions and collaborative development, making GitHub the perfect place to bring my expertise. I look forward to the opportunity to discuss how I can contribute to GitHub’s mission.
+## 📫 Let's Connect!  
+💼 **Portfolio:** [Your Website](#)  
+📧 **Email:** [Your Email](#)  
+🔗 **LinkedIn:** [Your LinkedIn](#)  
+🐦 **Twitter:** [Your Twitter](#)  
 
-Thank you for your time and consideration. Please find my resume attached.
+---
 
-Best regards,
-Sonjoy Bhadra
+⭐ **Feel free to check out my repositories and contribute!**  
