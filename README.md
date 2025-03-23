@@ -2,7 +2,7 @@
 
 # 💻 Sonjoy Bhadra  
 🚀 **Full-Stack Developer | Laravel | React.js | Node.js | Django**  
-
+</div>
 ![GitHub Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub)  
 
 ## 👋 About Me  
@@ -51,4 +51,4 @@ If you need a skilled **Full-Stack Developer** for your **web applications, APIs
 
 ⭐ **Check out my repositories and feel free to collaborate!**  
 
-</div>
+
